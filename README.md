@@ -67,3 +67,5 @@ If these files are missing, the app generates sample data automatically when sta
 - `app.py` – Streamlit application entrypoint
 - `create_dataset.py` – sample dataset generation helper
 - `src/` – data processing, analytics, visualization, and report modules.
+
+- RENDER live link : https://nec-project1.onrender.com/
