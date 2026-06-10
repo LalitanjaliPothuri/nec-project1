@@ -1,0 +1,13 @@
+product_name,category,current_stock,min_stock
+Face Cream,Beauty,25,20
+Shampoo,Beauty,15,20
+Lipstick,Beauty,10,15
+Headphones,Electronics,5,10
+Smart Watch,Electronics,8,12
+Keyboard,Electronics,18,10
+Saree,Fashion,20,15
+Kurti,Fashion,30,25
+T-Shirt,Fashion,40,30
+Rice Bag,Grocery,50,20
+Oil Packet,Grocery,35,25
+Sugar,Grocery,18,20
